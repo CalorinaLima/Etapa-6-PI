@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 
-
 @Controller
 public class ProdutoController {
     
@@ -20,8 +19,6 @@ public class ProdutoController {
     public String inicio(){
         return "index";
     }
-    
-   
     
     @GetMapping("/cadastro")
     public String cadastro(Model model){

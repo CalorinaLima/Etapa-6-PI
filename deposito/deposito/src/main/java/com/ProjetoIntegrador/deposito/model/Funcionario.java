@@ -1,6 +1,4 @@
-
 package com.ProjetoIntegrador.deposito.model;
-
 
 public class Funcionario {
     

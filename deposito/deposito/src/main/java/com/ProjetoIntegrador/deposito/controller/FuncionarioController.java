@@ -1,4 +1,3 @@
-
 package com.ProjetoIntegrador.deposito.controller;
 
 import com.ProjetoIntegrador.deposito.model.Funcionario;
